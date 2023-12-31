@@ -2,7 +2,7 @@ import { card } from "../assets";
 import styles, { layout } from "../style";
 import Button from "./Button";
 
-const CardDeal = () => (
+const phaseThree = () => (
   <section className={layout.section}>
     <div className={layout.sectionInfo}>
       <h2 className={styles.heading2}>
@@ -18,9 +18,9 @@ const CardDeal = () => (
     </div>
 
     <div className={layout.sectionImg}>
-      <img src={card} alt="billing" className="w-[100%] h-[100%]" />
+      <img src={card} alt="phaseTwo" className="w-[100%] h-[100%]" />
     </div>
   </section>
 );
 
-export default CardDeal;
+export default phaseThree;

@@ -30,7 +30,7 @@ const Hero = () => {
         </div>
 
         <h1 className="font-poppins font-semibold ss:text-[68px] text-[52px] text-white ss:leading-[100.8px] leading-[75px] w-full">
-          To Your Business.
+          To Your phaseOnes.
         </h1>
         <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
           Our agency is a service provider for measures concerning the marketing
@@ -43,7 +43,7 @@ const Hero = () => {
       >
         <img
           src={robot}
-          alt="billing"
+          alt="phaseTwo"
           className="w-[100%] h-[100%] relative z-[5]"
         />
 
