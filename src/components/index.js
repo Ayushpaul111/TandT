@@ -1,7 +1,7 @@
 import Navbar from "./Navbar";
-import phaseTwo from "./phaseTwo";
-import phaseThree from "./PhaseThree";
-import phaseOnes from "./phaseOne";
+import Billing from "./Billing";
+import CardDeal from "./CardDeal";
+import Business from "./Business";
 import Clients from "./Clients";
 import CTA from "./CTA";
 import Stats from "./Stats";
@@ -11,9 +11,9 @@ import Hero from "./Hero";
 
 export {
   Navbar,
-  phaseTwo,
-  phaseThree,
-  phaseOnes,
+  Billing,
+  CardDeal,
+  Business,
   Clients,
   CTA,
   Stats,
