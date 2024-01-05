@@ -7,7 +7,7 @@ import {
   CTA,
   Footer,
   Navbar,
-  Stats,
+  // Stats,
   Testimonials,
   Hero,
 } from "./components";

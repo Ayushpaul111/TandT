@@ -62,8 +62,8 @@ export const feedback = [
   {
     id: "feedback-1",
     content:
-      "Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver.",
-    name: "Herman Jensen",
+      "At our company, we turn clicks into clients and dreams into digital reality. Elevate your brand with our strategic prowess and creative finesse. Your success, our mission.",
+    name: "Bireswar Das",
     title: "Founder & Leader",
     img: people01,
   },
@@ -104,6 +104,44 @@ export const stats = [
 ];
 
 export const footerLinks = [
+  // {
+  //   title: "Community",
+  //   links: [
+  //     {
+  //       name: "Help Center",
+  //       link: "https://www.hoobank.com/help-center/",
+  //     },
+  //     {
+  //       name: "Partners",
+  //       link: "https://www.hoobank.com/partners/",
+  //     },
+  //     {
+  //       name: "Suggestions",
+  //       link: "https://www.hoobank.com/suggestions/",
+  //     },
+  //     {
+  //       name: "Blog",
+  //       link: "https://www.hoobank.com/blog/",
+  //     },
+  //     {
+  //       name: "Newsletters",
+  //       link: "https://www.hoobank.com/newsletters/",
+  //     },
+  //   ],
+  // },
+  {
+    title: "Social",
+    links: [
+      {
+        name: "Our Partner",
+        link: "https://www.hoobank.com/our-partner/",
+      },
+      {
+        name: "Become a Partner",
+        link: "https://www.hoobank.com/become-a-partner/",
+      },
+    ],
+  },
   {
     title: "Useful Links",
     links: [
@@ -126,44 +164,6 @@ export const footerLinks = [
       {
         name: "Terms & Services",
         link: "https://www.hoobank.com/terms-and-services/",
-      },
-    ],
-  },
-  {
-    title: "Community",
-    links: [
-      {
-        name: "Help Center",
-        link: "https://www.hoobank.com/help-center/",
-      },
-      {
-        name: "Partners",
-        link: "https://www.hoobank.com/partners/",
-      },
-      {
-        name: "Suggestions",
-        link: "https://www.hoobank.com/suggestions/",
-      },
-      {
-        name: "Blog",
-        link: "https://www.hoobank.com/blog/",
-      },
-      {
-        name: "Newsletters",
-        link: "https://www.hoobank.com/newsletters/",
-      },
-    ],
-  },
-  {
-    title: "Partner",
-    links: [
-      {
-        name: "Our Partner",
-        link: "https://www.hoobank.com/our-partner/",
-      },
-      {
-        name: "Become a Partner",
-        link: "https://www.hoobank.com/become-a-partner/",
       },
     ],
   },
