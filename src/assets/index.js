@@ -23,6 +23,9 @@ import twitter from "./twitter.svg";
 import people01 from "./people01.jpg";
 import people02 from "./people02.png";
 import people03 from "./people03.jpg";
+import DrParthaPratim from "./DrPrathaPratim.jpg";
+import SoumenChowdhury from "./SoumenChowdhury.jpg";
+import mtbLogo from "./mtbLogo.png";
 
 export {
   airbnb,
@@ -50,4 +53,7 @@ export {
   people01,
   people02,
   people03,
+  DrParthaPratim,
+  SoumenChowdhury,
+  mtbLogo,
 };

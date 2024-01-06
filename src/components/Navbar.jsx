@@ -23,6 +23,14 @@ const Navbar = () => {
             <a href={`#${nav.id}`}>{nav.title}</a>
           </li>
         ))}
+        <li>
+          <button
+            type="button"
+            className={` sm:ml-8 py-2 px-2 font-poppins text-primary bg-blue-gradient rounded-[10px] outline-none `}
+          >
+            <a href="https://forms.gle/cXQv47Wpcrs4f2Kx9">Contact Us</a>
+          </button>
+        </li>
       </ul>
 
       <div className="sm:hidden flex flex-1 justify-end items-center">
@@ -38,7 +46,7 @@ const Navbar = () => {
             !toggle ? "hidden" : "flex"
           } p-6 bg-black-gradient absolute top-20 right-0 mx-4 my-2 min-w-[140px] rounded-xl sidebar`}
         >
-          <ul className="list-none flex justify-end items-start flex-1 flex-col">
+          <ul className="list-none flex justify-end items-center flex-1 flex-col">
             {navLinks.map((nav, index) => (
               <li
                 key={nav.id}
@@ -50,6 +58,14 @@ const Navbar = () => {
                 <a href={`#${nav.id}`}>{nav.title}</a>
               </li>
             ))}
+            <li>
+              <button
+                type="button"
+                className={` mt-3 py-2 px-2 font-poppins items-center text-primary bg-blue-gradient rounded-[10px] outline-none `}
+              >
+                <a href="https://forms.gle/cXQv47Wpcrs4f2Kx9">Contact Us</a>
+              </button>
+            </li>
           </ul>
         </div>
       </div>

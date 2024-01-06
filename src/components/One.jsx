@@ -35,7 +35,7 @@ const Business = () => (
         mix: communication,price,product and sales.
       </p>
 
-      <Button styles={`mt-10`} />
+      {/* <Button styles={`mt-10`} /> */}
     </div>
 
     <div className={`${layout.sectionImg} flex-col`}>

@@ -2,14 +2,12 @@ import {
   people01,
   people02,
   people03,
+  DrParthaPratim,
+  SoumenChowdhury,
+  mtbLogo,
   facebook,
   instagram,
   linkedin,
-  twitter,
-  airbnb,
-  binance,
-  coinbase,
-  dropbox,
   send,
   shield,
   star,
@@ -21,12 +19,8 @@ export const navLinks = [
     title: "Home",
   },
   {
-    id: "features",
-    title: "Features",
-  },
-  {
-    id: "product",
-    title: "Product",
+    id: "service",
+    title: "Service",
   },
   {
     id: "team",
@@ -67,24 +61,24 @@ export const team = [
     id: "team-1",
     content:
       "At our company, we turn clicks into clients and dreams into digital reality. Elevate your brand with our strategic prowess and creative finesse. Your success, our mission.",
-    name: "Founder & Leader",
-    // title: "Founder & Leader",
+    name: "Bireswar Das",
+    title: "Founder & Leader",
     img: people01,
   },
   {
     id: "team-2",
     content:
       "Our special technology helps to enable companies to operate more efficiently, effectively and competitively. We also help in enhancing customer relationship through our friendly communication technology.",
-    name: "Chief Technology Officer",
-    // title: "Founder & Leader",
+    name: "Ayush Paul",
+    title: "Chief Technology Officer",
     img: people02,
   },
   {
     id: "team-3",
     content:
       "Our company is much known for its high level content creation. Our creative contents create awareness and generate quality leads which sustain healthy sales grow.",
-    name: "Chief Content Officer",
-    // title: "Founder & Leader",
+    name: "Debarati ",
+    title: "Chief Content Officer",
     img: people03,
   },
 ];
@@ -93,26 +87,26 @@ export const feedback = [
   {
     id: "feedback-1",
     content:
-      "At our company, we turn clicks into clients and dreams into digital reality. Elevate your brand with our strategic prowess and creative finesse. Your success, our mission.",
-    name: "Bireswar Das",
-    title: "Founder & Leader",
-    img: people01,
+      "Awesome experience working with the team at Heroes of Digital! They are always very responsive and continuously gives us suggestions to improve our online presence in the Online digital Marketing inndustry.",
+    name: "Tanmay Chowdhury",
+    title: "Chowdhury Medical ",
+    img: SoumenChowdhury,
   },
   {
     id: "feedback-2",
     content:
-      "Money makes your life easier. If you're lucky to have it, you're lucky.",
-    name: "Steve Mark",
-    title: "Founder & Leader",
-    img: people02,
+      "Happy with the service provided by Bireswar and team… very sincere and dedicated towards the work… keep growing… all the best👍🏻",
+    name: "Dr. Partha Pratim Debnath",
+    // title: "Nrishingha Super Speciality Dental and Maxillofacial Career",
+    img: DrParthaPratim,
   },
   {
     id: "feedback-3",
     content:
-      "It is usually people in the money business, finance, and international trade that are really rich.",
-    name: "Kenn Gallagher",
-    title: "Founder & Leader",
-    img: people03,
+      "The service provided by you is undoubtedly praiseworthy.Your team is expert in designing that is proved in the design. The advertisement really attracts the viewers .In short , the fact of digital marketing always gets fulfilment in the hands of your team.",
+    name: "Farid Pramanik",
+    title: "Mtb education",
+    img: mtbLogo,
   },
 ];
 
