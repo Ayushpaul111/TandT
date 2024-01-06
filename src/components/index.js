@@ -5,8 +5,9 @@ import CardDeal from "./Three";
 import Clients from "./Clients";
 import CTA from "./CTA";
 import Stats from "./Stats";
-import Footer from "./Footer";
+import Team from "./Team";
 import Testimonials from "./Testimonials";
+import Footer from "./Footer";
 import Hero from "./Hero";
 
 export {
@@ -18,6 +19,7 @@ export {
   CTA,
   Stats,
   Footer,
+  Team,
   Testimonials,
   Hero,
 };

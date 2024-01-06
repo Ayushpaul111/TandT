@@ -7,6 +7,7 @@ import {
   CTA,
   Footer,
   Navbar,
+  Team,
   // Stats,
   Testimonials,
   Hero,
@@ -32,6 +33,7 @@ const App = () => (
         <Business />
         <Billing />
         <CardDeal />
+        <Team />
         <Testimonials />
         <Clients />
         <CTA />
