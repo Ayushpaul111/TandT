@@ -41,7 +41,7 @@ const cardData = [
 ];
 
 const CardDeal = () => (
-  <section className={layout.sectionInfo}>
+  <section id="service" className={layout.sectionInfo}>
     <div className="p-10 grid grid-cols-1 sm:grid-cols-1 md:grid-cols-3 lg:grid-cols-3 xl:grid-cols-3 gap-5 ">
       {/* <div className="absolute z-[0] w-[20%] h-[10%] top-[55%] right-[78%] rounded-full blue__gradient bottom-40"></div> shit bg i'll fix later */}
       {cardData.map((data, index) => (

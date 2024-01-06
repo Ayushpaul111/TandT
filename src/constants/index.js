@@ -29,6 +29,10 @@ export const navLinks = [
     title: "Product",
   },
   {
+    id: "team",
+    title: "Team",
+  },
+  {
     id: "clients",
     title: "Clients",
   },
@@ -70,7 +74,7 @@ export const team = [
   {
     id: "team-2",
     content:
-      "Money makes your life easier. If you're lucky to have it, you're lucky.",
+      "Our special technology helps to enable companies to operate more efficiently, effectively and competitively. We also help in enhancing customer relationship through our friendly communication technology.",
     name: "Chief Technology Officer",
     // title: "Founder & Leader",
     img: people02,
@@ -78,8 +82,8 @@ export const team = [
   {
     id: "team-3",
     content:
-      "It is usually people in the money business, finance, and international trade that are really rich.",
-    name: "Kenn Gallagher",
+      "Our company is much known for its high level content creation. Our creative contents create awareness and generate quality leads which sustain healthy sales grow.",
+    name: "Chief Content Officer",
     // title: "Founder & Leader",
     img: people03,
   },
@@ -160,12 +164,16 @@ export const footerLinks = [
     title: "Social",
     links: [
       {
-        name: "Our Partner",
-        link: "https://www.hoobank.com/our-partner/",
+        name: "Instagram",
+        link: "https://www.instagram.com/takeandtricks/",
       },
       {
-        name: "Become a Partner",
-        link: "https://www.hoobank.com/become-a-partner/",
+        name: "Facebook",
+        link: "https://www.facebook.com/TakeandTricks",
+      },
+      {
+        name: "LinkedIn",
+        link: "https://www.linkedin.com/company/take-and-tricks/about/",
       },
     ],
   },
@@ -200,23 +208,23 @@ export const socialMedia = [
   {
     id: "social-media-1",
     icon: instagram,
-    link: "https://www.instagram.com/",
+    link: "https://www.instagram.com/takeandtricks/",
   },
   {
     id: "social-media-2",
     icon: facebook,
-    link: "https://www.facebook.com/",
-  },
-  {
-    id: "social-media-3",
-    icon: twitter,
-    link: "https://www.twitter.com/",
+    link: "https://www.facebook.com/TakeandTricks",
   },
   {
     id: "social-media-4",
     icon: linkedin,
-    link: "https://www.linkedin.com/",
+    link: "https://www.linkedin.com/company/take-and-tricks/about/",
   },
+  // {
+  //   id: "social-media-3",
+  //   icon: twitter,
+  //   link: "https://www.twitter.com/",
+  // },
 ];
 
 export const clients = [
