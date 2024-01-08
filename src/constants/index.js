@@ -176,10 +176,10 @@ export const footerLinks = [
         name: "Content Us",
         link: "https://forms.gle/cXQv47Wpcrs4f2Kx9",
       },
-      {
-        name: "Privacy Policy",
-        link: "/privacyPolicy",
-      },
+      // {
+      //   name: "Privacy Policy",
+      //   link: "/privacyPolicy",
+      // },
     ],
   },
 ];
