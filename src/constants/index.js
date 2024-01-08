@@ -173,7 +173,7 @@ export const footerLinks = [
     title: "Useful Links",
     links: [
       {
-        name: "Content Us",
+        name: "Contact Us",
         link: "https://forms.gle/cXQv47Wpcrs4f2Kx9",
       },
       // {

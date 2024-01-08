@@ -51,14 +51,12 @@ const cardData = [
 const CardDeal = () => (
   <section id="service" className={layout.sectionInfo}>
     <div className="p-10 grid grid-cols-1 ss:grid-cols-2 sm:grid-cols-3 md:grid-cols-3 lg:grid-cols-5 xl:grid-cols-5 gap-5 ">
-      {/* <div className="absolute z-[0] w-[20%] h-[10%] top-[55%] right-[78%] rounded-full blue__gradient bottom-40"></div> shit bg i'll fix later */}
       {cardData.map((data, index) => (
         <div
           key={index}
           className="flex flex-col bg-gradient-to-t rounded-lg shadow-md w-full m-6 overflow-hidden sm:w-52 feature-card"
         >
-          {/* <img className="w-full" src={card} alt={data.title} /> */}
-          <div className="px-6 py-4 relative z-[1] ">
+          <div className="px-6 py-4 relative z-[1]  ">
             <img
               src={data.icon}
               alt=""

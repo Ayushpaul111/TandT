@@ -22,7 +22,7 @@ const Testimonials = () => (
       </div> */}
     </div>
 
-    <div className="flex flex-wrap sm:justify-start justify-center w-full feedback-container relative z-[1]">
+    <div className="flex flex-wrap text-center md:text-start sm:justify-start justify-center w-full feedback-container relative z-[1]">
       {team.map((card) => (
         <TeamCard key={card.id} {...card} />
       ))}
