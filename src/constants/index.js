@@ -36,23 +36,21 @@ export const features = [
   {
     id: "feature-1",
     icon: star,
-    title: "Rewards",
+    title: "Quality",
     content:
-      "The best credit cards offer some tantalizing combinations of promotions and prizes",
+      "Our company prides itself on providing the highest quality of service.",
   },
   {
     id: "feature-2",
     icon: shield,
-    title: "100% Secured",
-    content:
-      "We take proactive steps make sure your information and transactions are secure.",
+    title: "Responsibility",
+    content: "We take the 100% responsibility to grow your company.",
   },
   {
     id: "feature-3",
     icon: send,
-    title: "Balance Transfer",
-    content:
-      "A balance transfer credit card can save you a lot of money in interest charges.",
+    title: "Commitment",
+    content: "We can promise you to give our best to bring you success.",
   },
 ];
 
@@ -87,9 +85,9 @@ export const feedback = [
   {
     id: "feedback-1",
     content:
-      "Awesome experience working with the team at Heroes of Digital! They are always very responsive and continuously gives us suggestions to improve our online presence in the Online digital Marketing inndustry.",
-    name: "Tanmay Chowdhury",
-    title: "Chowdhury Medical ",
+      "We have the best journey with this agency because of their punctuality, dedication and unblemished high quality work and friendly behavior. Want to do more work with you and to grow much too.",
+    name: "Soumen Chowdhury",
+    title: "Chowdhury Medical",
     img: SoumenChowdhury,
   },
   {
@@ -175,24 +173,12 @@ export const footerLinks = [
     title: "Useful Links",
     links: [
       {
-        name: "Content",
-        link: "https://www.hoobank.com/content/",
+        name: "Content Us",
+        link: "https://forms.gle/cXQv47Wpcrs4f2Kx9",
       },
       {
-        name: "How it Works",
-        link: "https://www.hoobank.com/how-it-works/",
-      },
-      {
-        name: "Create",
-        link: "https://www.hoobank.com/create/",
-      },
-      {
-        name: "Explore",
-        link: "https://www.hoobank.com/explore/",
-      },
-      {
-        name: "Terms & Services",
-        link: "https://www.hoobank.com/terms-and-services/",
+        name: "Privacy Policy",
+        link: "/privacyPolicy",
       },
     ],
   },
