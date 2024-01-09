@@ -44,7 +44,7 @@ export const features = [
     id: "feature-2",
     icon: shield,
     title: "Responsibility",
-    content: "We take the 100% responsibility to grow your company.",
+    content: "We take the true responsibility to grow your company.",
   },
   {
     id: "feature-3",
@@ -85,7 +85,7 @@ export const feedback = [
   {
     id: "feedback-1",
     content:
-      "We have the best journey with this agency because of their punctuality, dedication and unblemished high quality work and friendly behavior. Want to do more work with you and to grow much too.",
+      "We have the best journey with this agency because of their punctuality, dedication and unblemished high quality work and friendly behavior. Want to do more work with you and to grow much too. Best digital marketing agency in North Bengal.",
     name: "Soumen Chowdhury",
     title: "Chowdhury Medical",
     img: SoumenChowdhury,

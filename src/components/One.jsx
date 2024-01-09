@@ -31,8 +31,8 @@ const Business = () => (
         Get Your Business <br className="sm:block hidden" /> To A New Height.
       </h2>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-        Our agency is a service provider for measures concerning the marketing
-        mix: communication,price,product and sales.
+        Elevate your business to a new height with strategic innovation and
+        unwavering dedication.
       </p>
 
       {/* <Button styles={`mt-10`} /> */}
