@@ -28,7 +28,7 @@ const Business = () => (
   <section id="features" className={layout.section}>
     <div className={layout.sectionInfo}>
       <h2 className={styles.heading2}>
-        Get Your Business <br className="sm:block hidden" /> To A New Height.
+        Get Your Business<br className="sm:block hidden" /> To A New Height.
       </h2>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
         Elevate your business to a new height with strategic innovation and
