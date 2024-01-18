@@ -33,7 +33,7 @@ const Hero = () => {
           To Your Business.
         </h1>
         <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-          Our agency is a service provider for measures concerning the marketing
+        Our digital marketing agency is a service provider for measures concerning the marketing
           mix: communication,price,product and sales.
         </p>
       </div>

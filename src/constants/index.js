@@ -22,14 +22,14 @@ export const navLinks = [
     id: "service",
     title: "Service",
   },
-  {
-    id: "team",
-    title: "Team",
-  },
-  {
-    id: "clients",
-    title: "Clients",
-  },
+  // {
+  //   id: "team",
+  //   title: "Team",
+  // },
+  // {
+  //   id: "clients",
+  //   title: "Clients",
+  // },
 ];
 
 export const features = [
