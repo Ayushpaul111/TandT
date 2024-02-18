@@ -55,14 +55,14 @@ export const features = [
 ];
 
 export const team = [
-  {
-    id: "team-1",
-    content:
-      "At our Digital marketing company, we turn clicks into clients and dreams into digital reality. Elevate your brand with our strategic prowess and creative finesse. Your success, our mission.",
-    name: "Bireswar Das",
-    title: "Founder & Leader",
-    img: people01,
-  },
+  // {
+  //   id: "team-1",
+  //   content:
+  //     "At our Digital marketing company, we turn clicks into clients and dreams into digital reality. Elevate your brand with our strategic prowess and creative finesse. Your success, our mission.",
+  //   name: "Bireswar Das",
+  //   title: "Founder & Leader",
+  //   img: people01,
+  // },
   {
     id: "team-2",
     content:
